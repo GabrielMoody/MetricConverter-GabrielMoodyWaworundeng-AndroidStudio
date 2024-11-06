@@ -9,4 +9,4 @@ Aplikasi berbasis mobile sederhana untuk melakukan konversi satuan. Satuan yang 
 - Suhu
 
 ## How to use
-![](https://github.com/GabrielMoody/Metric_Converter-GabrielMoodyWaworundeng-AndroidStudio/blob/main/how_to_use.gif)
+![](https://github.com/GabrielMoody/MetricConverter-GabrielMoodyWaworundeng-AndroidStudio/blob/main/how_to_use.gif)
